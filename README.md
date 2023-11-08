@@ -9,3 +9,7 @@ Assignment -2 : Community Detection Algorithms
 Assignment -3 : Effects of Smoking
 
 Assignment -4 : Visual Neuroscience
+
+Assignment -5 : Covid-19 Modelling
+
+Assignment -6 : Colour Blindness
